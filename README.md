@@ -1,2 +1,2 @@
-# Taxi-Fare-Prediction-usinf-Machine-Learning
+# Taxi-Fare-Prediction-using-Machine-Learning
 I have used Random Forest classifier for prediction. 
